@@ -12,6 +12,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-PRODUCT_VENDOR_KERNEL_HEADERS := hardware/qcom/msm8996/kernel-headers
+PRODUCT_VENDOR_KERNEL_HEADERS := hardware/qcom/msm8937/kernel-headers
 
-PRODUCT_PACKAGES += hwcomposer.msm8996
+PRODUCT_PACKAGES += hwcomposer.msm8937
